@@ -1,0 +1,3 @@
+RTSC_PRODUCTS=com.ti.rtsc.DSPBIOS\:5.42.2.10;com.ti.rtsc.XDAIS\:7.24.0.04;com.devkits\:1.7.0.00;
+XDC_PATH=C\:/ti/bios_5_42_02_10/packages;C\:/ti/xdais_7_24_00_04/packages;C\:/ti/xdais_7_24_00_04/examples;C\:/ti/controlSUITE/powerSUITE/v_1_07_00_00/packages;
+eclipse.preferences.version=1

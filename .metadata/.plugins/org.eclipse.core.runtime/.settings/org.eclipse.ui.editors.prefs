@@ -1,0 +1,12 @@
+AbstractTextEditor.Color.Background=0,0,0
+AbstractTextEditor.Color.Background.SystemDefault=false
+Accessibility.UseSaturatedColors=true
+currentLineColor=4,46,96
+eclipse.preferences.version=1
+org.eclipse.cdt.ui.occurrenceIndicationColor=0,0,255
+org.eclipse.cdt.ui.writeOccurrenceIndicationColor=243,150,185
+overviewRuler_migration=migrated_3.1
+printMargin=true
+printMarginColumn=120
+quickdiff.characterMode=true
+spacesForTabs=true
