@@ -1,0 +1,17 @@
+../Core/Src/IPS_st7789.c:50:6:Preobr_LCD	16	static
+../Core/Src/IPS_st7789.c:62:13:IPS_st7789_Reset	8	static
+../Core/Src/IPS_st7789.c:72:13:IPS_st7789_WriteCommand	16	static
+../Core/Src/IPS_st7789.c:78:13:IPS_st7789_WriteData	16	static
+../Core/Src/IPS_st7789.c:84:13:IPS_st7789_ExecuteCommandList	24	static
+../Core/Src/IPS_st7789.c:116:13:IPS_st7789_SetAddressWindow	32	static
+../Core/Src/IPS_st7789.c:132:6:IPS_st7789_Init	8	static
+../Core/Src/IPS_st7789.c:138:6:IPS_st7789_DrawPixel	24	static
+../Core/Src/IPS_st7789.c:147:7:IPS_st7789_WriteChar	48	static
+../Core/Src/IPS_st7789.c:166:7:IPS_st7789_WriteU16	48	static
+../Core/Src/IPS_st7789.c:194:7:IPS_st7789_WriteU8_2	48	static
+../Core/Src/IPS_st7789.c:210:7:IPS_st7789_WriteF	48	static
+../Core/Src/IPS_st7789.c:258:6:IPS_st7789_WriteString	32	static
+../Core/Src/IPS_st7789.c:282:6:IPS_st7789_WriteSIM	48	static
+../Core/Src/IPS_st7789.c:325:6:IPS_st7789_FillRectangle	32	static
+../Core/Src/IPS_st7789.c:344:6:IPS_st7789_FillScreen	24	static
+../Core/Src/IPS_st7789.c:368:6:IPS_st7789_InvertColors	16	static
